@@ -1,82 +1,97 @@
-# 🛡️ Cybersecurity & SOC Engineering Portfolio
+<div align="center">
+  <h1>🛡️ Leandro Andrade</h1>
+  <h3>Cybersecurity Analyst (Blue Team) | Infrastructure & Operations | SOC</h3>
+  <p>
+    <a href="https://linkedin.com/in/leandro-andrade-ti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:leandrolele200705@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/Leanszz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=leandro-andrade-ti&label=Profile%20Views&color=1679A7&style=flat" alt="Profile Views" />
+</div>
 
-[![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Security Focus](https://img.shields.io/badge/Focus-Blue_Team_%7C_SOC-blue?style=for-the-badge&logo=shield)](https://github.com/Leanszz)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+<br>
 
-> Repositório oficial do meu Portfólio Profissional voltado para **Operações de Segurança (SOC)**, **Análise de Incidentes**, **Análise Forense de Redes** e **Automação de Segurança**. Desenvolvido com **Next.js 15 (App Router)**, **TypeScript** e **Tailwind CSS**.
+## 🔍 `/whoami` (Resumo Profissional)
 
----
+> *"Consolidando a base em Infraestrutura para defender na linha de frente."*
 
-## 🔍 Visão Geral (Overview)
+Sou um profissional de tecnologia focado em **Segurança da Informação** (Blue Team / Defesa), com mais de 2 anos de experiência sólida em suporte técnico N1/N2, infraestrutura e sustentação de ambientes corporativos críticos. Minha vivência em *troubleshooting* com **Windows, Linux, Active Directory e ITIL** me proporcionou uma visão profunda de como os sistemas operam e de como mantê-los resilientes a falhas e ataques.
 
-Este repositório contém o código-fonte do portfólio interativo de **Leandro Andrade**, estudante de Segurança Cibernética na FIAP e profissional de TI com sólida experiência em suporte técnico, infraestrutura corporativa e resposta a incidentes.
-
-O objetivo principal desta aplicação web é consolidar e expor de forma transparente:
-* **Laboratórios Práticos de Cibersegurança:** Projetos hands-on de análise de pacotes PCAP, automação com Python e Scapy, hardening de Active Directory e auditoria de sistemas via PowerShell.
-* **Métricas de Infraestrutura & SOC:** Casos de estudo focados na redução do tempo de resposta (MTTR), mapeamento de superfície de ataque e prevenção de falhas de causa raiz.
-* **Trajetória e Certificações:** Evolução técnica contínua alinhada ao roadmap para atuar como Analista de SOC / Blue Team Specialist.
-
----
-
-## ⚡ Tech Stack & Ferramentas
-
-Uma visão categorizada das tecnologias utilizadas tanto para a **construção da aplicação web** quanto para a **execução dos laboratórios de segurança**.
-
-### 💻 Desenvolvimento & Web Engineering
-| Categoria | Tecnologias Utilizadas |
-| :--- | :--- |
-| **Framework Web** | Next.js 15 (App Router, Server Components) |
-| **Linguagem** | TypeScript |
-| **Estilização** | Tailwind CSS, PostCSS, Autoprefixer |
-| **Animações & Ícones** | Framer Motion, Lucide React |
-| **Deployment** | Vercel Edge Network |
-
-### 🚨 Segurança, Infraestrutura & Automação (Blue Team / SOC)
-| Domínio | Ferramentas & Tecnologias |
-| :--- | :--- |
-| **Análise de Tráfego & Forense** | Wireshark, TShark, Network Forensics, Análise de Arquivos PCAP |
-| **Mapeamento & Reconhecimento** | Nmap, Scapy, OWASP Top 10 |
-| **Infraestrutura Corporativa** | Active Directory (FSMO, GPO Hardening, Event Log Auditing), VMware, Linux (Debian/Ubuntu/CentOS), Windows Server |
-| **Scripting & Automação** | Python (`socket`, `requests`, `scapy`), PowerShell (`Get-*`, `Import-*`, auditoria de módulos), Bash |
-| **Gestão & Processos** | ITIL v4, SLA, Análise de Causa Raiz, Documentação Técnica (SOPs) |
+Atualmente, curso **Segurança Cibernética na FIAP** e dedico meu tempo à análise de pacotes de rede, resposta a incidentes e gestão de vulnerabilidades. Busco constantemente unir minha maturidade operacional, disciplina na resolução de incidentes e aplicação de práticas defensivas avançadas para proteger ambientes corporativos.
 
 ---
 
-## 📁 Estrutura do Repositório
+## ⚙️ `/skills & tools` (Arsenal Técnico)
 
-A arquitetura do projeto segue o padrão do **Next.js 15 App Router**, estruturada de forma modular e altamente escalável:
+### 🛡️ Cybersecurity & Forensics
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2B2D31?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable_Nessus-000000?style=for-the-badge)
+- **Análise de Tráfego:** Captura e inspeção de pacotes (*Deep Packet Inspection*), Network Forensics.
+- **Scanning & Vulnerabilidades:** Varreduras de rede, mapeamento de superfície de ataque e avaliação de vulnerabilidades.
 
-```text
-cybersecurity-portfolio/
-├── public/
-│   ├── favicon.ico
-│   └── resume.pdf                 # Currículo oficial em PDF para download
-├── src/
-│   ├── app/
-│   │   ├── globals.css            # Configurações globais do Tailwind CSS
-│   │   ├── layout.tsx             # Root Layout, font loaders e SEO Metadata
-│   │   ├── page.tsx               # Página principal (Single Page Application)
-│   │   └── sitemap.ts             # Gerador de sitemap para SEO
-│   ├── components/
-│   │   ├── layout/
-│   │   │   ├── Footer.tsx         # Rodapé com redes e links de contato
-│   │   │   └── Navbar.tsx         # Barra de navegação responsiva com smooth scroll
-│   │   ├── sections/
-│   │   │   ├── AboutSection.tsx            # Resumo profissional e trajetória
-│   │   │   ├── CertificationsSection.tsx   # Certificações obtidas e em andamento
-│   │   │   ├── ContactSection.tsx          # Formulário/Links diretos de contato
-│   │   │   ├── ExperienceSection.tsx       # Histórico de atuação em TI/Suporte
-│   │   │   ├── HeroSection.tsx             # Apresentação inicial e call-to-action
-│   │   │   ├── ProjectsSection.tsx         # Vitrine dos laboratórios de segurança
-│   │   │   ├── RoadmapSection.tsx          # Certificações e metas até 2028
-│   │   │   └── SkillsSection.tsx           # Hard/Soft skills divididas por categoria
-│   │   └── SeoSchema.tsx          # Injeção de dados estruturados JSON-LD (Schema.org)
-│   └── lib/
-│       └── resumeData.ts          # Arquivo centralizador de dados e projetos (Single Source of Truth)
-├── tailwind.config.ts             # Customização de temas e fontes
-├── tsconfig.json                  # Configuração estrita do TypeScript
-└── package.json                   # Dependências e scripts do projeto
+### 💻 Sistemas & Infraestrutura
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+- **Administração & Sustentação:** Configuração de servidores, FSMO, GPOs, troubleshooting avançado, macOS e estabilidade operacional.
+
+### 🤖 Automação & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- **Scripts & Redes:** Automação de tarefas, *Sockets*, *Requests*, manipulação de rede com *Scapy*.
+- **Dev & Dados:** Conhecimentos em arquitetura Full Stack, machine learning e análise de dados para automação de rotinas de SOC.
+
+### 📈 Metodologias & Gestão
+![ITIL](https://img.shields.io/badge/ITIL-005E9D?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- **Governança:** Acordos de Nível de Serviço (SLA), criação e padronização de SOPs (*Standard Operating Procedures*), governança de TI.
+
+---
+
+## 🚨 `/experience` (Trajetória Profissional)
+
+### 🏢 Analista de Suporte Pleno | **Stefanini** `(04/2025 – 03/2026)`
+*   **Resolução de Incidentes Críticos:** Atuação direta na mitigação de problemas envolvendo ambientes corporativos de alto impacto (SAP, Microsoft 365, Oracle, Cisco, Windows).
+*   **Processos & Documentação:** Padronização de SOPs, visando a melhoria contínua e a redução de MTTR (*Mean Time To Repair*).
+*   **Mentoria e Cultura:** Treinamento técnico de novos analistas, compartilhando boas práticas operacionais.
+
+### 🏢 Analista de Suporte Pleno | **JBI Serviços** `(10/2024 – 04/2025)`
+*   **Sustentação Híbrida:** Suporte avançado N2 garantindo a estabilidade em plataformas Windows, macOS e Linux.
+*   **Escalonamento Inteligente:** Análise de causa raiz para incidentes complexos, garantindo a integração eficiente com as equipes de Redes e Desenvolvimento dentro dos SLAs estipulados.
+
+### 🏢 Analista de Logística Jr. | **Fractalia Systems** `(09/2023 – 03/2024)`
+*   **Governança de Ativos:** Controle de inventário, organização e rastreabilidade dos ativos tecnológicos, otimizando os custos operacionais do setor de TI.
+
+---
+
+## 🎓 `/education & certs` (Formação & Certificações)
+
+**🎓 Acadêmico:**
+- **Segurança Cibernética** — FIAP (EAD) | *Previsão de Conclusão: Janeiro de 2028*
+
+**📜 Certificações & Cursos Destacados:**
+- 🛡️ **Cibersegurança:** Introdução à Cibersegurança (Cisco Networking Academy)
+- 🐧 **Sistemas:** Linux Intermediário (Alura), Administração de Sistemas (LinkedIn Learning)
+- 🌐 **Redes:** Redes Intermediário (Alura)
+- 📊 **Produtividade & Análise:** Microsoft 365 (Udemy), Power BI Intermediário (Udemy), Excel Avançado (Udemy), Excel Intermediário (SENAI-SP)
+
+---
+
+## 🔐 `/connect` (Contato Seguro)
+
+```bash
+$ ping -c 1 leandro-andrade
+> 64 bytes from leandro: icmp_seq=1 ttl=64 time=0.042 ms
+> Status: Online and ready to defend.
+```
+- 💼 **LinkedIn:** [linkedin.com/in/leandro-andrade-ti](https://linkedin.com/in/leandro-andrade-ti)
+- 📧 **E-mail:** [leandrolele200705@gmail.com](mailto:leandrolele200705@gmail.com)
+- 💻 **GitHub:** [github.com/Leanszz](https://github.com/Leanszz)
+- 📍 **Base de Operações:** São Paulo, SP - Brasil
